@@ -9,7 +9,7 @@ The Control Flow of a Java program is dictated by:
     - function calls
  */
 
-// Code Examples within gpt3 class - left off at if else
+// Code Examples within gpt3 class
 public class gpt3 {
     public static void main(String[] args) {
         
